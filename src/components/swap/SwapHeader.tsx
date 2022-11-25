@@ -21,7 +21,7 @@ export default function SwapHeader({ allowedSlippage }: { allowedSlippage: Perce
           <ThemedText.DeprecatedBlack fontWeight={500} fontSize={16} style={{ marginRight: '8px' }}>
             <Trans>
               <a href="https://svgshare.com/s/oEL">
-                <img src="https://svgshare.com/i/oEL.svg" title="" />
+                <img src="https://svgshare.com/i/oEL.svg" title="logo" />
               </a>
               Swap
             </Trans>
